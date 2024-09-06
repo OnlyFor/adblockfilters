@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: be97L9s8n7KCrytlsWbr6A
-! Version: 202409050221
+! Checksum: p+9utDNlQt6mTqvlMtgyww
+! Version: 202409061551
 ! Title: EasyPrivacy
-! Last modified: 05 Sep 2024 02:21 UTC
+! Last modified: 06 Sep 2024 15:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7597,6 +7597,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beam.mjhlifesciences.com^
 ||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
+||bendingspoonsapps.com/v4/web-events
 ||bento.agoda.com^
 ||bet365.de/Members/*&affiliate=$subdocument,third-party
 ||betano.de^*?btag=$subdocument,third-party
@@ -10742,6 +10743,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yahoo.co.jp/js/retargeting.js
 ! Korean
 ||acelogger.heraldcorp.com^
+||ad.aceplanet.co.kr^
+||adlc-exchange.toast.com^
 ||applog.ssgdfs.com^
 ||assets.datarize.ai^
 ||cafe24.com/cfa.js
@@ -50552,7 +50555,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||maxmind.com/geoip/$xmlhttprequest,domain=ibanez.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|ip-address.cc|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
-@@||maxmind.com^*/geoip2.js$domain=bandai-hobby.net|boostedboards.com|donorschoose.org|driftinnovation.com|fallout4.com|ibanez.com|instamed.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
+@@||maxmind.com^*/geoip2.js$domain=bandai-hobby.net|boostedboards.com|donorschoose.org|driftinnovation.com|fallout4.com|ibanez.com|instamed.com|metronews.ca|mtv.com.lb|runningheroes.com|tama.com|teslamotors.com
 @@||mbe.modelica.university/_next/static/*/pages/pageview.js$~third-party
 @@||mclo.gs/js/logview.js$~third-party
 @@||metrics.bangbros.com/tk.js$~third-party
