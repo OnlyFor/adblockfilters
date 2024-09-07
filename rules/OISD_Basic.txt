@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202409061407
+! Version: 202409070212
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 46332
-! Last modified: 2024-09-06T14:07:38+0000
+! Entries: 46322
+! Last modified: 2024-09-07T02:12:38+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -6642,7 +6642,6 @@
 ||athbzeobts.com^
 ||athecsz.cn^
 ||atheegrun.net^
-||atheismannect.com^
 ||atheismcard.com^
 ||atheismperplex.com^
 ||athena-ads.wikia.com^
@@ -6912,7 +6911,6 @@
 ||avenueinvoke.com^
 ||avenuewalkerchange.com^
 ||average-champion.pro^
-||aversenicky.com^
 ||aversionatrocious.com^
 ||aversionmast.com^
 ||aversionwives.com^
@@ -8324,7 +8322,6 @@
 ||bird.webitizevoice.com^
 ||birdnavy.com^
 ||birglucy.xyz^
-||birlinnlaissez.com^
 ||biroads.com^
 ||birqmiowxfh.com^
 ||birthday3452.fun^
@@ -8863,7 +8860,6 @@
 ||bowlprick.com^
 ||bowlpromoteintimacy.com^
 ||bowlsolicitor.com^
-||bowsingchilkat.click^
 ||box.anchorfree.net^
 ||box1.aomg5bzv7.com^
 ||boxappellation.com^
@@ -9133,6 +9129,7 @@
 ||brushedwifedifferently.com^
 ||brutalmathematics.com^
 ||bruteknack.com^
+||brutishlylifevoicing.com^
 ||brygella.com^
 ||bryovo.com^
 ||bs-adserver.b-cdn.net^
@@ -15203,7 +15200,6 @@
 ||dollarade.com^
 ||dollargrimlytommy.com^
 ||dollarsurvey365.org^
-||dolliersophic.com^
 ||dollinwurleys.com^
 ||dollsdeclare.com^
 ||dolohen.com^
@@ -16517,6 +16513,7 @@
 ||encodehelped.com^
 ||encodeinflected.com^
 ||encounterboastful.com^
+||encounterponder.com^
 ||encouragedrealityirresponsible.com^
 ||encouragedunrulyriddle.com^
 ||encourageshock.com^
@@ -18574,7 +18571,6 @@
 ||fpwncdgqsnq.xyz^
 ||fpwpvchbwckbg.com^
 ||fpzpmx.com^
-||fq03.shop^
 ||fqbjzj.xyz^
 ||fqfclmlo.xyz^
 ||fqghykp.cn^
@@ -18802,6 +18798,7 @@
 ||fundingexceptingarraignment.com^
 ||funestjacket.shop^
 ||fungalqueller.com^
+||fungiaoutfame.com^
 ||fungus.online^
 ||funjoobpolicester.info^
 ||funklicks.com^
@@ -19879,7 +19876,6 @@
 ||gombotrubu.com^
 ||gomnlt.com^
 ||goneawaytogy.info^
-||gonethyrsus.click^
 ||goo-access-analytics.appspot.com^
 ||goobreamed.com^
 ||good-ads-online.com^
@@ -20142,7 +20138,6 @@
 ||gresteedoong.net^
 ||gretaith.com^
 ||gretnsassn.com^
-||grewash1b.fun^
 ||greworganizer.com^
 ||greystripe.com^
 ||greysummergo.biz^
@@ -23077,6 +23072,7 @@
 ||jassidpanne.com^
 ||jatchough.com^
 ||jatfugios.com^
+||jatobaviruela.com^
 ||jatomayfair.life^
 ||jatosbathkol.com^
 ||jattepush.com^
@@ -23215,7 +23211,6 @@
 ||jerboasjourney.com^
 ||jergocast.com^
 ||jerkisle.com^
-||jermdyslogy.com^
 ||jeroud.com^
 ||jerusalemcurve.com^
 ||jerusalemstatedstill.com^
@@ -23651,7 +23646,6 @@
 ||jxybgyu.com^
 ||jy.aomg5bzv7.com^
 ||jy.zhongxues.com^
-||jy05.shop^
 ||jy147a.com^
 ||jyewkb.icu^
 ||jyfdbj.xyz^
@@ -25709,7 +25703,6 @@
 ||lreprx-server.anyclip.com^
 ||lreqmoonpjka.com^
 ||lrqknpk.com^
-||lrutvncl.top^
 ||lrxdnyq.cn^
 ||ls.hongaries.com^
 ||ls.srvcs.tumblr.com^
@@ -28418,6 +28411,7 @@
 ||ngegas.files.im^
 ||ngeoziadiyc4hi2e.com^
 ||ngfruitiesmatc.info^
+||ngfycrwwd.com^
 ||ngineet.cfd^
 ||ngjeaizqad.com^
 ||nglestpeoplesho.com^
@@ -30338,7 +30332,6 @@
 ||paibopse.com^
 ||paichaus.com^
 ||paid.outbrain.com^
-||paidsnows.click^
 ||paiena.xyz^
 ||paiglumousty.net^
 ||paikoasa.tv^
@@ -30797,6 +30790,7 @@
 ||peisantcorneas.com^
 ||pejzeexukxo.com^
 ||pekcbuz.com^
+||pekseerdune.xyz^
 ||pelamydlours.com^
 ||pelliancalmato.com^
 ||pelorusgravest.top^
@@ -31682,7 +31676,6 @@
 ||polarlootstairwell.com^
 ||polarmobile.com^
 ||polaronveldt.guru^
-||polewigsuperb.com^
 ||police.aomg5bzv7.com^
 ||policeair.com^
 ||policecaravanallure.com^
@@ -32599,6 +32592,7 @@
 ||pt.wisernotify.com^
 ||pta.wcm.pl^
 ||ptaiceckir.net^
+||ptailadsol.net^
 ||ptaimpeerte.com^
 ||ptaissud.com^
 ||ptaixout.net^
@@ -33695,6 +33689,7 @@
 ||rcerrohatfad.com^
 ||rcf3occ8.de^
 ||rchkup.com^
+||rchmupnlifo.xyz^
 ||rcm.shinobi.jp^
 ||rcmjs.rambler.ru^
 ||rcnithgm.xyz^
@@ -33898,6 +33893,7 @@
 ||reddenlightly.com^
 ||reddestgramash.com^
 ||reddleops.pro^
+||reddockbedman.com^
 ||redebitapedom.com^
 ||redheadpublicityjug.com^
 ||redi.teengirl-pics.com^
@@ -35599,7 +35595,6 @@
 ||satisfactorilyfigured.com^
 ||satisfactoryhustlebands.com^
 ||satisfied-tour.pro^
-||sativasnailed.com^
 ||satlockspa.live^
 ||satmon.neekstore.com^
 ||satoripedary.com^
@@ -35786,6 +35781,7 @@
 ||scornfulabsorbploy.com^
 ||scornphiladelphiacarla.com^
 ||scorpion.clare.ink^
+||scotergushing.com^
 ||scounter.rambler.ru^
 ||scousepneuma.com^
 ||scowpoppanasals.com^
@@ -36680,7 +36676,6 @@
 ||simplisticwhole.pro^
 ||simplyscepticaltoad.com^
 ||simpunok.com^
-||sinatraquonset.click^
 ||sincalled.com^
 ||sincenturypro.org^
 ||sincerelyseverelyminimum.com^
@@ -38438,7 +38433,6 @@
 ||stoaphalti.com^
 ||stoashou.net^
 ||stoat.death-to-ie11.com^
-||stoatersmutty.com^
 ||stoawugluce.net^
 ||stockbook-ads.firebaseapp.com^
 ||stockbook-ads.firebaseio.com^
@@ -38665,7 +38659,6 @@
 ||subag.freexxxbase.com^
 ||subcom.uiiumovie.com^
 ||subdatejutties.com^
-||subdebsrelent.click^
 ||subdo.torrentlocura.com^
 ||subdo.torrentrapid.com^
 ||subduealec.com^
@@ -38725,7 +38718,6 @@
 ||suddenvampire.com^
 ||suddslife.com^
 ||sudvclh.com^
-||suededtubbed.shop^
 ||sueivypeg.com^
 ||suescollum.com^
 ||suesuspiciousin.com^
@@ -44639,7 +44631,6 @@
 ||woodpecker.ember.ly^
 ||woodpecker.mikehalliday.com^
 ||woodpecker.seabits.com^
-||woodycoarct.com^
 ||woodygloatneigh.com^
 ||woogoust.com^
 ||woohazaz.net^
@@ -45530,7 +45521,6 @@
 ||yapforestsfairfax.com^
 ||yapunderstandsounding.com^
 ||yarlnk.com^
-||yarningeddic.shop^
 ||yashi.com^
 ||yasma.top^
 ||yatab.net^
