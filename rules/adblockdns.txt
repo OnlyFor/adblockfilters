@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240918161137
-! Last modified: 2024/09/18 16:11:37
-! Blocked domains: 174190
+! Version: 20240919001039
+! Last modified: 2024/09/19 00:10:39
+! Blocked domains: 174199
 ! unBlocked domains: 51
 !
 ||0-0.fr^
@@ -16278,6 +16278,7 @@
 ||appoineditardwide.com^
 ||appointedbaseslogan.com^
 ||appointedchildorchestra.com^
+||appointeeivyspongy.com^
 ||email.mg.appointment-plus.com^
 ||appointments-online.com^
 ||appolicious.com^
@@ -32469,6 +32470,7 @@
 ||bxvlyrw.com^
 ||bxwccii.cn^
 ||ca.bxwx3.org^
+||bxxibvjt.com^
 ||by-emmamuller.de^
 ||analytics.contents.by-fw.jp^
 ||pic.by175.com^
@@ -50232,6 +50234,7 @@
 ||dsc.fyi^
 ||e37364.dscd.akamaiedge.net^
 ||marketing.dscdredge.com^
+||dscds111.fun^
 ||dscex7u1h4a9a.cloudfront.net^
 ||e7876.dscg.akamaiedge.net^
 ||link.dsctrk.com^
@@ -71613,6 +71616,7 @@
 ||h3bet.com^
 ||h3betslotgame.com^
 ||h3ightenll1f4ven.xyz^
+||log-ana.h3z.jp^
 ||h4r7dvewa.com^
 ||h51.com^
 ||h51.live^
@@ -106346,6 +106350,7 @@
 ||noodledesperately.com^
 ||noodokod.xyz^
 ||noodshare.pics^
+||nooglaug.net^
 ||noojoomo.com^
 ||y4e04gql5o1b.www.nookgaming.com^
 ||nookwiser.com^
@@ -125714,6 +125719,7 @@
 ||qrsg11.com^
 ||qrstes.com^
 ||qrtfx.com^
+||qrwcss.xyz^
 ||i720.qrxxbarcodexauthlogin.com^
 ||analytics.qs-apps.com^
 ||vinted-pl-gj32d.qs88.top^
@@ -126366,6 +126372,7 @@
 ||quzmpjy.com^
 ||quzmtpxw.xyz^
 ||quzpvtt.xyz^
+||quzwteqzaabm.com^
 ||c.qv566.cn^
 ||v.qv566.cn^
 ||smetrics.qvc.com^
@@ -151466,6 +151473,7 @@
 ||www.tkdami.net^
 ||dichvucong.tkgov.com^
 ||tkidcigitrte.com^
+||tkiteri.top^
 ||tklac.com^
 ||creative.tklivechat.com^
 ||tkmailgirl.xyz^
@@ -159791,6 +159799,7 @@
 ||vib-nang-the.com^
 ||vib-tindung-khcn.com^
 ||vib-tindung.online^
+||vibanioa.com^
 ||matomo.vibb.ax^
 ||wssgmstats.vibbo.com^
 ||s.vibe.co^
