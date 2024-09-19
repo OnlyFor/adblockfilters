@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240919001039
-! Last modified: 2024/09/19 00:10:39
-! Blocked domains: 174199
+! Version: 20240919083813
+! Last modified: 2024/09/19 08:38:13
+! Blocked domains: 174223
 ! unBlocked domains: 51
 !
 ||0-0.fr^
@@ -435,6 +435,8 @@
 ||1.11467.com^
 ||1.114central.com^
 ||114la.com^
+||1157433411.rsc.cdn77.org^
+||1167965905.rsc.cdn77.org^
 ||116b.com^
 ||1187531871.rsc.cdn77.org^
 ||statistics.11880.com^
@@ -502,6 +504,7 @@
 ||11zz.com^
 ||12.com^
 ||1200555.com^
+||1205088249.rsc.cdn77.org^
 ||1208344341.rsc.cdn77.org^
 ||1208818836.rsc.cdn77.org^
 ||analysis.120ask.com^
@@ -819,6 +822,7 @@
 ||1821z.website^
 ||allegrolokalnie.1829412.shop^
 ||184c4i95p.de^
+||1860610788.rsc.cdn77.org^
 ||1866741353.rsc.cdn77.org^
 ||1873083787.rsc.cdn77.org^
 ||18744.com^
@@ -3307,6 +3311,7 @@
 ||72075223.xyz^
 ||order.7221.info^
 ||7228.eu^
+||72356275.xyz^
 ||724sports.com^
 ||7253d56acf.com^
 ||72560514.xyz^
@@ -9538,6 +9543,7 @@
 ||agfhpexmasa.com^
 ||agflkiombagl.com^
 ||email.agfuse.com^
+||agghriwaz.com^
 ||aggia.pl^
 ||aggiornamento-sella.com^
 ||aggle.net^
@@ -13542,7 +13548,7 @@
 ||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
-||on.animeteatr.ru^
+||play.on.animeteatr.ru^
 ||animi2.com^
 ||animits.com^
 ||dinocraft.animocabrands.com^
@@ -16454,6 +16460,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -34696,6 +34703,7 @@
 ||go.cdsi.us.com^
 ||insights.cdt.ch^
 ||cdu.cc^
+||cdunwi.xyz^
 ||cduporno.fr^
 ||cdvn.vip^
 ||activate.cdwg.com^
@@ -42021,6 +42029,7 @@
 ||doubleclick.ctfile.com^
 ||mydisplay.ctfile.com^
 ||cthbini.xyz^
+||cthbkxcvksx.com^
 ||cthisismoych.com^
 ||ctibank.com^
 ||ctibrc.org^
@@ -45294,6 +45303,7 @@
 ||hcsmec.decathlon.pt^
 ||images.decaturish.com^
 ||decaturtimes.com^
+||decatyldecane.com^
 ||decaytreacherous.com^
 ||decbusi.com^
 ||seyfwl.deccoria.pl^
@@ -66614,6 +66624,7 @@
 ||turtle.geshem.space^
 ||gesrg.com^
 ||gestama.boats^
+||gestatebuxomly.com^
 ||vw1.gestimnogo.net^
 ||m.gestiones-ing.com^
 ||smetrics.gestionpriveegi.com^
@@ -76768,6 +76779,7 @@
 ||trk.hvitali.com^
 ||usww.hvjzhzl.top^
 ||hvlitr.xyz^
+||hvmmtuxtgaw.com^
 ||hvooyieoei.com^
 ||hvxrvef.xyz^
 ||hw-ad.de^
@@ -84361,6 +84373,7 @@
 ||jnnjthg.com^
 ||jnp0kmm.icu^
 ||jnpconsulting.co.za^
+||jnpwkazdss.com^
 ||jnrgcwf.com^
 ||jnrtavp2x66u.com^
 ||jnuumip.com^
@@ -101192,6 +101205,7 @@
 ||mpk01.com^
 ||mpl.live^
 ||mplayeranyd.info^
+||mpljrzsdufq.com^
 ||mploymehnthejuias.info^
 ||marketing.mplsnw.com^
 ||mpmcash.com^
@@ -103722,6 +103736,7 @@
 ||navi78.ru^
 ||navi8.com^
 ||navi88.com^
+||navi95.ru^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
 ||naviblue-team.com^
@@ -105880,6 +105895,7 @@
 ||nip44.com^
 ||nip5.com^
 ||nip57.com^
+||nip58.com^
 ||nip69.com^
 ||nip8.com^
 ||nip89.com^
@@ -113214,6 +113230,7 @@
 ||cmpv2.pcworld.com^
 ||cmp.pcworld.pl^
 ||a8.pcwrap.com^
+||pcxnrd.xyz^
 ||mail.pcygphil.com^
 ||pdayyocpnvh.ru^
 ||pdbarea.com^
@@ -127380,6 +127397,7 @@
 ||prism.raumgleiter.com^
 ||raunooligais.net^
 ||uxqzcu.raunt.com^
+||raupasee.xyz^
 ||raupsica.net^
 ||rausougo.net^
 ||rauvoaty.net^
@@ -134677,6 +134695,7 @@
 ||scomaninteractive.com^
 ||scomtest.com^
 ||sconotaeger.xyz^
+||analytics-api.sconto.cz^
 ||sconvtrk.com^
 ||scoopauthority.com^
 ||info.scoopinsurance.ca^
@@ -136693,6 +136712,7 @@
 ||dolphin.sfelc.com^
 ||sfeo-49.homes^
 ||sfeok-k43.homes^
+||sfesdef6.fun^
 ||content.sffirecu.org^
 ||sffsdvc.com^
 ||sfg.jp^
@@ -145311,6 +145331,7 @@
 ||tracking.surikate.com^
 ||metrics.surinenglish.com^
 ||sadbmetrics.surinenglish.com^
+||suriquesyre.com^
 ||email-link.mg.surkus.com^
 ||email-link.mg-staging.surkus.com^
 ||link.lpm.surkus.com^
@@ -148986,6 +149007,7 @@
 ||tesla-pl.com^
 ||tesla-x-space.com^
 ||tesla11.io^
+||tesla4eth.net^
 ||teslab.site^
 ||teslacoin.io^
 ||teslacore.io^
@@ -156588,6 +156610,7 @@
 ||unmillondeutilidades.com^
 ||unmisdreavusom.com^
 ||unmistdistune.guru^
+||unmownpirated.shop^
 ||unnathimilk.com^
 ||unnaturalstring.com^
 ||unnecessarydispleasedleak.com^
@@ -167173,6 +167196,7 @@
 ||wleb21.com^
 ||s.wlink1.com^
 ||s.wlink2.com^
+||wlkukrv.icu^
 ||e993.wlky.com^
 ||wlmarketing.com^
 ||wlmitgzbht.com^
