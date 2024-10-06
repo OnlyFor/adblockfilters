@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241006161008
-! Last modified: 2024/10/06 16:10:08
-! Blocked domains: 176384
+! Version: 20241007000837
+! Last modified: 2024/10/07 00:08:37
+! Blocked domains: 176391
 ! unBlocked domains: 51
 !
 ||free-form.000.pe^
@@ -3362,6 +3362,7 @@
 ||54e4e31106.6e10268cd2.com^
 ||6e26fb1ae7.com^
 ||32dcfb89c9.6ee4d8e440.com^
+||6efgcdcjr000.fun^
 ||9e53d7ea46.6f0b6cb0fe.com^
 ||6f752f73ce.com^
 ||6ftlady.com^
@@ -10216,6 +10217,7 @@
 ||starget.aircanada.com^
 ||tk.aircaraibes.com^
 ||aa-metrics.aircard.jp^
+||aircgd.shop^
 ||trk.aircharterguide.com^
 ||trk.airchecklab.com^
 ||airconditionpianoembarrassment.com^
@@ -11541,15 +11543,9 @@
 ||analytics.allas.se^
 ||allasab.com^
 ||allatkach.com^
-||conn-service-in-03.allawnos.com^
-||conn-service-in-04.allawnos.com^
-||conn-service-in-05.allawnos.com^
 ||conn-service-us-03.allawnos.com^
 ||opex-service-sg.allawnos.com^
 ||sau-server-us.allawnos.com^
-||conn-service-cn-03.allawntech.com^
-||conn-service-cn-04.allawntech.com^
-||conn-service-cn-05.allawntech.com^
 ||allayselect.com^
 ||imjsfy.allbeauty.com^
 ||allbestviews.com^
@@ -13642,7 +13638,6 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||api.animeshqip.icu^
 ||notifications.animeshqip.info^
 ||animi2.com^
@@ -16970,6 +16965,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apsgwl.in^
 ||apsis.com^
 ||static.ws.apsis.one^
@@ -23945,6 +23941,7 @@
 ||beta-n.ro^
 ||promotionmaterial.betacash.com^
 ||betack.com^
+||betadeadlock.com^
 ||betadria.com^
 ||betads.xyz^
 ||betahit.click^
@@ -31929,6 +31926,7 @@
 ||solutions.bwtek.com^
 ||ad.bwton.com^
 ||bwtsrv.com^
+||bwurserv.top^
 ||bx-cloud.com^
 ||bx-qa.com^
 ||bxacmsvmxb.com^
@@ -45158,7 +45156,6 @@
 ||www2.discountcatalyticconverters.com^
 ||discountclick.com^
 ||www2s.discountfuelsystems.com^
-||discounthoneywell.com^
 ||dhkyrl.discountmags.com^
 ||gxsuum.discountmugs.com^
 ||analytics.discountpowertx.com^
@@ -53922,7 +53919,6 @@
 ||family1st.ca^
 ||familyaqka.monster^
 ||familybakery.xyz^
-||familybestgifts.com^
 ||familyborn.com^
 ||familycheaters.net^
 ||familycomplexionardently.com^
@@ -54117,6 +54113,7 @@
 ||adsrv.fashion.bg^
 ||trk.fashion365.com^
 ||fashionablegangsterexplosion.com^
+||fashionadid.com^
 ||wm8bcqvd3tgn9vhv23d2sa9u.fashionarid.com^
 ||heyaxr.fashiondays.bg^
 ||gaafbi.fashiondays.hu^
@@ -71981,6 +71978,7 @@
 ||immuneclone.com^
 ||smetrics.immunooncology.be^
 ||immunoshield.ph^
+||imndl.icu^
 ||imnovalux.com^
 ||imo-cash.de^
 ||imobiliariaaprovar.com.br^
@@ -81381,6 +81379,8 @@
 ||keluaranhk6d.com^
 ||www2.kemcosystems.com^
 ||kemhality.com^
+||link.kemkes.go.id^
+||parisiporlin-ktki.kemkes.go.id^
 ||analytics.kemlu.go.id^
 ||kemyjei6.click^
 ||kendallme.com^
@@ -98771,7 +98771,6 @@
 ||ad-1258444056.cos.accelerate.myqcloud.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
-||bossaudioandcomic-1252317822.image.myqcloud.com^
 ||cndjs-1251973891.coshk.myqcloud.com^
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
@@ -99897,6 +99896,7 @@
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
+||navi76.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -105956,6 +105956,7 @@
 ||online.sh.cn^
 ||online143.com^
 ||vlnted-gb.online6424.info^
+||onlineadid.com^
 ||dailydeals.onlineathens.com^
 ||onlinebalances.com^
 ||onlinecash.com^
@@ -111207,6 +111208,7 @@
 ||pictorialtraverse.com^
 ||picturecorrespond.com^
 ||go.picturemarketing.com^
+||pictureoutdoor.com^
 ||picturestash.mom^
 ||pictureturn.com^
 ||picupeebau.info^
@@ -111416,6 +111418,7 @@
 ||pinhuitech.asia^
 ||pinion.gg^
 ||pinjamanelit.top^
+||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -138719,6 +138722,7 @@
 ||aolsvc.snowqueen.ru^
 ||snowqueenhydrangea.xyz^
 ||sno1.snowrental.com^
+||snowroxy.com^
 ||snowsignal.com^
 ||snowyescape.live^
 ||tr.info.snpden.net^
@@ -139670,6 +139674,7 @@
 ||sordimtaulee.com^
 ||sore-candle-comic.glitch.me^
 ||sore-mature-bubble.glitch.me^
+||soreldiscount.com^
 ||soremetropolitan.com^
 ||soresidewalk.com^
 ||soresneeze.com^
@@ -142712,6 +142717,7 @@
 ||store-rx.com^
 ||store-swatch.com^
 ||store4porn.com^
+||storeadid.com^
 ||storeax.com^
 ||storebuildereurope.com^
 ||storecollegeonline.com^
@@ -159993,6 +159999,7 @@
 ||usmusk.net^
 ||usn.cc^
 ||usnd.to^
+||usnewoutdoor.com^
 ||link.biz-messaging.usnews.com^
 ||link.messaging.usnews.com^
 ||m3.usnews.com^
