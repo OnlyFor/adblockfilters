@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241009001028
-! Last modified: 2024/10/09 00:10:28
-! Blocked domains: 168496
+! Version: 20241009083912
+! Last modified: 2024/10/09 08:39:12
+! Blocked domains: 168516
 ! unBlocked domains: 51
 !
 ||ihpost.03463247.xyz^
@@ -346,6 +346,7 @@
 ||114la.com^
 ||115mainstreet.com^
 ||116b.com^
+||1176731452.rsc.cdn77.org^
 ||11778562.xyz^
 ||1187531871.rsc.cdn77.org^
 ||statistics.11880.com^
@@ -607,6 +608,7 @@
 ||www.143nchrtl3.com^
 ||b73b66d5e6.144a0bcf96.com^
 ||144e93bbf0.com^
+||1457037562.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||boring-tesla.149-102-231-176.plesk.page^
 ||1493361689.rsc.cdn77.org^
@@ -9896,6 +9898,7 @@
 ||ajx291.online^
 ||ajxx91.online^
 ||ajxx98.online^
+||ajybgc.xyz^
 ||ak-tracker.com^
 ||ak0gsh40.com^
 ||aka-root.com^
@@ -37062,6 +37065,7 @@
 ||link.covve.com^
 ||cowardsagrias.com^
 ||applinks.cowboysnearby.com^
+||cowcuo.xyz^
 ||cowestoped.pro^
 ||cowlandagroindustries.com^
 ||cowm199.com^
@@ -52386,6 +52390,7 @@
 ||in.ff5.com^
 ||ff8467d480.com^
 ||3fb4026cec.ffbd26c481.com^
+||ffbdbx.xyz^
 ||ffbvhlc.com^
 ||f679bab577.ffd8c0e0ac.com^
 ||future.ffepgv.fr^
@@ -60468,6 +60473,7 @@
 ||sstats2.gq.com^
 ||stats2.gq.com^
 ||gqalqi656.com^
+||gqcdxkrst.com^
 ||gqdfgyz.cn^
 ||gqdvbkmnkox.com^
 ||usjjo.gqejqmwy.top^
@@ -71472,6 +71478,7 @@
 ||irstrategies.net^
 ||irtyc.com^
 ||web.iru.org^
+||irulws.xyz^
 ||irun.org^
 ||ox.irv.si^
 ||consent.irvinecompany.com^
@@ -71542,6 +71549,7 @@
 ||isaacelia.com^
 ||isaacjonesmacarons.com^
 ||isabellaeveapparel.com^
+||isabellagodpointy.com^
 ||isabellahopepancake.com^
 ||isabellastarchild.com^
 ||lp.isabellemartin.online^
@@ -79237,6 +79245,7 @@
 ||www.cf.labanquepostale.fr^
 ||labanquepostalecertiplus.com^
 ||labapwlkyov.com^
+||labashl.de^
 ||labaz.vip^
 ||emails.labc.co.uk^
 ||activation.labcorp.com^
@@ -93637,7 +93646,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -100028,6 +100036,7 @@
 ||oqnabsatfn.com^
 ||oqnjfotketk.com^
 ||oqpahlskaqal.com^
+||oqprjunocooluy.com^
 ||qnbskk.oqvestir.com.br^
 ||oqyiapj.cn^
 ||or-oil.online^
@@ -101308,6 +101317,7 @@
 ||p7vf9d9xlv.click^
 ||p849.info^
 ||p99998888.com^
+||pa-cd.com^
 ||pa-ir.net^
 ||bdncut.pa-man.shop^
 ||pa-marketing.eu^
@@ -104303,6 +104313,7 @@
 ||invite.piceapp.com^
 ||picehoe.com^
 ||pichost.pics^
+||pickablegift.com^
 ||pickaflick.co^
 ||tbihvt.pickawood.com^
 ||pickedincome.com^
@@ -104460,6 +104471,7 @@
 ||pinchsquirrel.com^
 ||pindiz.com^
 ||adim.pinduoduo.com^
+||dspsdk.pinduoduo.com^
 ||images.pinduoduo.com^
 ||pineal--xt.com^
 ||pinealguardian-us.com^
@@ -104497,6 +104509,7 @@
 ||pinhuitech.asia^
 ||pinion.gg^
 ||pinjamanelit.top^
+||pinjamanpedia.xyz^
 ||pinjamanplus.com^
 ||pinjamteman.top^
 ||pinjamuang.top^
@@ -116384,6 +116397,7 @@
 ||qotersanches.com^
 ||qotveriks.com^
 ||qotyhyuu6.pro^
+||qouv.fr^
 ||qowncyf.com^
 ||qoxawyi1.cyou^
 ||qoytmrsfvu.com^
@@ -118234,6 +118248,7 @@
 ||rarelyv.sbs^
 ||rareru.ru^
 ||raresummer.com^
+||rarrwcfe.com^
 ||rartengg.com^
 ||ad.rarure.com^
 ||rarz-uploader.com^
@@ -120860,6 +120875,7 @@
 ||reyehathick.info^
 ||invitation.reyesmagos.app^
 ||reykijnoac.com^
+||a.reymit.ir^
 ||reynders.info^
 ||reypelis.tv^
 ||analytics.reyrey.net^
@@ -121605,6 +121621,7 @@
 ||somni.rkt.zone^
 ||rktu.com^
 ||jiu.rktupt.cn^
+||rkulukhwuoc.com^
 ||rkwithcatuk.org^
 ||mbox-ibox00.rkyatech.com^
 ||olx.rkynedosa.org^
@@ -131457,6 +131474,7 @@
 ||applog.snssdk.com^
 ||bds.snssdk.com^
 ||extlog.snssdk.com^
+||gecko.snssdk.com^
 ||gecko-hl.snssdk.com^
 ||gecko-lq.snssdk.com^
 ||haohuo.snssdk.com^
@@ -151607,6 +151625,7 @@
 ||upspostt.cc^
 ||upsreschedule-uy.com^
 ||upsservices-custom.net^
+||upstairswellnewest.com^
 ||upstandingmoscow.com^
 ||upstartwings.com^
 ||upstatescnews.com^
@@ -152661,6 +152680,7 @@
 ||usn.cc^
 ||usnd.to^
 ||usnewoutdoor.com^
+||usnewoutdoors.com^
 ||link.biz-messaging.usnews.com^
 ||link.messaging.usnews.com^
 ||m3.usnews.com^
